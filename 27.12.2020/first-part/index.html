@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" href="./style.css">
+	<style>
+		.red {
+			background-color: red;
+		}
+	</style>
+</head>
+
+<body>
+	<!-- <input value="Click me" onmouseover="alert('SALAM')" type="button">
+	<input id="test" type="button" value="Click me">
+
+	<ol id="ol" onclick="alert('Test')" style="background-color: red;">
+		<li>0</li>
+		<li>1</li>
+		<li>2</li>
+	</ol>
+
+	<div onclick="countRabbits()">Rabbit counter</div> -->
+	<!-- <button onclick="alert(this.outerHTML)">Salam necesen?</button> -->
+	<!-- <button onclick="sayThanks">sayThanks</button> -->
+
+	<!-- <input type="button" id="elem" onclick="alert('Before')" value="Click me"> -->
+
+	<button onclick="alert(1)">Button 1</button>
+	<button onClick="alert(2)">Button 2</button>
+	<button ONCLICK="alert(3)">Button 3</button>
+	<script>
+
+
+		// button.ONCLICK = function () { alert(1) } //!
+		// button.onClick = function () { alert(1) }// !
+		button.onclick = function () { alert(1) }
+
+
+		// function sayThanks() {
+		// 	alert('Thanks!');
+		// }
+
+		// document.body.className = 'red';
+		// document.body.style.backgroundColor = 'red';
+		// document.body.setAttribute('style', 'background-color: red; color: blue; font-size: 16px')
+
+		// document.body.setAttribute('onclick', function () { alert(1) });
+
+
+		// elem.onclick = sayThanks;
+
+		// elem.onclick = null;
+		// elem.onclick = alert('Before');
+
+		// elem.onclick = function () { // overwrites the existing handler
+		// 	alert('After'); // only this will be shown
+		// };
+	</script>
+	<script src="./index.js"></script>
+</body>
+
+</html>
