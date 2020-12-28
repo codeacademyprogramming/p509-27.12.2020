@@ -26,6 +26,9 @@
 ## Additional articles and videos:
 
 - **Articles:**
+  - Highly recommended to read these:
+    - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events
+    - https://eloquentjavascript.net/15_event.html
 - **Videos:**
   - JavaScript: How It's Made - https://youtu.be/FSs_JYwnAdI
   - [What is Event Delegation?](https://youtu.be/pKzf80F3O0U)
@@ -50,3 +53,5 @@
      - Example video: https://user-images.githubusercontent.com/74110914/103200455-ce9d9f80-4906-11eb-87a0-a7afdc696a14.mov
 
 ## Some other useful resources:
+
+- MDN Event: https://developer.mozilla.org/en-US/docs/Web/API/Event
