@@ -42,5 +42,11 @@
    - [Learn DOM Manipulation In 18 Minutes](https://youtu.be/y17RuWkWdn8)
    - Complete this section -> [Working with JS Events](https://drive.google.com/drive/folders/1_j54b2-B_0C_UHeUngBGXZZYugq0TIuL?usp=sharing)
    - [Make a JavaScript Drum Kit in Vanilla JS! #JavaScript30 1/30](https://youtu.be/VuN8qwZoego?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)
+2. JS Exercises
+   - ``Hide headings when they are double clicked``
+     - Example video: https://user-images.githubusercontent.com/74110914/103200388-a615a580-4906-11eb-9105-86a1aef8f7e2.mov
+   - ``Display a random image by clicking on a button``
+     - Use https://picsum.photos/ for pictures.
+     - Example video: https://user-images.githubusercontent.com/74110914/103200455-ce9d9f80-4906-11eb-87a0-a7afdc696a14.mov
 
 ## Some other useful resources:
